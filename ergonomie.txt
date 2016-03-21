@@ -1,0 +1,94 @@
+Ergonomie et Design
+Damien Lockner
+
+Concepteur
+Ergonome
+Utilisateur
+
+Qui est l'utilisateur ?
+Quelle est l'architecture globale ?
+
+
+Features
+Architecture
+Interactions et UI
+
+L'utilisateur
+J'aime que ça fonctionne : Efficacité
+J'aime que ce soit facile : Efficience (- de temps, - de clicks, - de questions...)
+Plaisir d'utilisation : Satisfaction
+
+Lors du changement de version problème d'efficacité : il faut jouer sur le plaisir pour motiver le changement !
+
+8 critères ergonomiques 
+voir PDF fourni...(Bastien et Scarpin)
+- Guidage
+- Charge de travail (densité, + de 7 charge de mémorisation)
+- Contrôle explicite (voir ce qui se passe)
+- Adaptabilité (adapatation selon expertise...)
+- Compatibilité (avec l'utilisateur)
+- Gestion des erreurs
+- Homogénéité / Cohérence
+
+Formulaires plus efficients
+
+UTILISATEUR
+Entretiens observations et tests avec l'utilisateur : faire parler à voix haute ce qu'il fait ou pense
+On peut créer plusieurs PERSONA : profils personnalisés - nom, fonction, contexte d'utilisation, savoir faire technique, objectifs...
+On confronte les PERSONA à la réalisation tout au long de la vie de l'application.
+
+
+FEATURES - ARCHITECTURE
+Catégoriser, hiérarchises
+Nommer (avec l'utilisateur de préférence...)
+- Signifiance des codes et dénominations (vocabulaire contrôlé : un seul mot pour une chose...)
+Grouper en sous éléments cohérents, codes couleur
+Sequencer en étapes, éventuellement avec questions qui déterminent les questions
+
+DESIGN D'ECRAN
+Faire wire frame
+Zoning (zones basiques de la page)
+La perfection n'est pas quand on n'a plus rien à ajouter mais quand on n'a plus rien a retirer...
+
+Champ de saisie :
+Libellé au dessus...
+Libellé dans le champ...
+Libllé dans le champ mais audessus
++ pictogramme qui donne du sens ?
+
+Case à cocher : rendre toute la surface clickable
+Cases couleur si cochées.
+
+Switchs (bien montrer si on ou off)
+
+Menu déroulant pour moins de cinq choix...
+Sinon c'est mieux cases à cocher
+
+Gestion des erreurs
+Limiter les erreurs inutiles... il y a des erreurs qui peuvenet être corrigées automatiquement
+Messages d'erreurs compréhensibles ! Ideal : afficher près de l'erreur.
+C'est mieux d'afficher toutes les erreurs et mettre le focus sur la première.
+
+Coche en vert en temps réel : c'est bon.
+
+Ne pas oublier les experts ! 
+Et handicaps divers...
+
+damien.lockner@spicy.life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
